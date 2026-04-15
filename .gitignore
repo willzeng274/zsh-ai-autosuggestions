@@ -1,0 +1,3 @@
+*.gguf
+*.log
+.DS_Store
